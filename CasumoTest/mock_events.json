@@ -1,0 +1,2057 @@
+[
+{
+"id": "10275811585",
+"type": "PushEvent",
+"actor": {
+"id": 8517910,
+"login": "LombiqBot",
+"display_login": "LombiqBot",
+"gravatar_id": "",
+"url": "https://api.github.com/users/LombiqBot",
+"avatar_url": "https://avatars.githubusercontent.com/u/8517910?"
+},
+"repo": {
+"id": 49138417,
+"name": "Lombiq/Om.Orchard.SocialMetaTags",
+"url": "https://api.github.com/repos/Lombiq/Om.Orchard.SocialMetaTags"
+},
+"payload": {
+"push_id": 3958451533,
+"size": 0,
+"distinct_size": 0,
+"ref": "refs/heads/Orchard.1.8.Version",
+"head": "050cc05bb54149bd6e18bf354b284e2831e6dc88",
+"before": "050cc05bb54149bd6e18bf354b284e2831e6dc88",
+"commits": [
+
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z",
+"org": {
+"id": 8158177,
+"login": "Lombiq",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/Lombiq",
+"avatar_url": "https://avatars.githubusercontent.com/u/8158177?"
+}
+},
+{
+"id": "10275811582",
+"type": "PushEvent",
+"actor": {
+"id": 19766276,
+"login": "ni500",
+"display_login": "ni500",
+"gravatar_id": "",
+"url": "https://api.github.com/users/ni500",
+"avatar_url": "https://avatars.githubusercontent.com/u/19766276?"
+},
+"repo": {
+"id": 203274659,
+"name": "ni500/ng-bolivia-neocratia",
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia"
+},
+"payload": {
+"push_id": 3958451529,
+"size": 11,
+"distinct_size": 0,
+"ref": "refs/heads/master",
+"head": "b73067549997d168caa2a0d9f6b518568570a5ef",
+"before": "68b6b768492478c3f5f384bb71342338bb789466",
+"commits": [
+{
+"sha": "69b65c244b216b5718af44a0ba48ee06bdfaafde",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Main modules added to the app",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/69b65c244b216b5718af44a0ba48ee06bdfaafde"
+},
+{
+"sha": "e00af2611fe7d0fb311bdc6212af0140d22e5d38",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Sidenav and toolbar added with Material Components",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/e00af2611fe7d0fb311bdc6212af0140d22e5d38"
+},
+{
+"sha": "155e079e6bdc9d61aeaf25030a4a68018549e116",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Material Imports on share-module",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/155e079e6bdc9d61aeaf25030a4a68018549e116"
+},
+{
+"sha": "d09b494108e5ec27c38e03234d587fa53a97fa72",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Navbar and sidemenu components added",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/d09b494108e5ec27c38e03234d587fa53a97fa72"
+},
+{
+"sha": "cedb1ce72ef811b875a5c18d4cd25b7fbfedc6b4",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Routing from menu and politicians mock list",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/cedb1ce72ef811b875a5c18d4cd25b7fbfedc6b4"
+},
+{
+"sha": "a5b3b79759f39c68a10c94c94450c745f6e0c74b",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Routing from sidenav and politicians mock list",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/a5b3b79759f39c68a10c94c94450c745f6e0c74b"
+},
+{
+"sha": "f0a32e679742208db2205b2ca4eada7c2311d85a",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Rename sidenav and toolbar",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/f0a32e679742208db2205b2ca4eada7c2311d85a"
+},
+{
+"sha": "217947dc74ef298205ab2d0c92765ad552c49b16",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Step 3 complete",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/217947dc74ef298205ab2d0c92765ad552c49b16"
+},
+{
+"sha": "f7c0e8a0bf1b8906abbd283acb340c7dc636329d",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Firebase configuration",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/f7c0e8a0bf1b8906abbd283acb340c7dc636329d"
+},
+{
+"sha": "3c65d99fd6d2a9770f98548e04c4e53a3811f971",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Create decision politician and votes",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/3c65d99fd6d2a9770f98548e04c4e53a3811f971"
+},
+{
+"sha": "b73067549997d168caa2a0d9f6b518568570a5ef",
+"author": {
+"email": "nicolas@pappcorn.com",
+"name": "Nicolas Contreras"
+},
+"message": "Add login to home page and handle activist rol",
+"distinct": false,
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia/commits/b73067549997d168caa2a0d9f6b518568570a5ef"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811583",
+"type": "CreateEvent",
+"actor": {
+"id": 19766276,
+"login": "ni500",
+"display_login": "ni500",
+"gravatar_id": "",
+"url": "https://api.github.com/users/ni500",
+"avatar_url": "https://avatars.githubusercontent.com/u/19766276?"
+},
+"repo": {
+"id": 203274659,
+"name": "ni500/ng-bolivia-neocratia",
+"url": "https://api.github.com/repos/ni500/ng-bolivia-neocratia"
+},
+"payload": {
+"ref": "angular-material",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "Aplicación para aprender/repasar conceptos de Angular, Firebase y RxJS mientras le damos una mano a nuestra democracia.",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811580",
+"type": "PushEvent",
+"actor": {
+"id": 53946570,
+"login": "tran-chien",
+"display_login": "tran-chien",
+"gravatar_id": "",
+"url": "https://api.github.com/users/tran-chien",
+"avatar_url": "https://avatars.githubusercontent.com/u/53946570?"
+},
+"repo": {
+"id": 204147022,
+"name": "tran-chien/ML2019",
+"url": "https://api.github.com/repos/tran-chien/ML2019"
+},
+"payload": {
+"push_id": 3958451531,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "f44c0a6a237437e17d309243a987c028ffa9b896",
+"before": "973bde10c4f2eef24828e8b642776f05910f6dce",
+"commits": [
+{
+"sha": "f44c0a6a237437e17d309243a987c028ffa9b896",
+"author": {
+"email": "53946570+tran-chien@users.noreply.github.com",
+"name": "Dinh-Chien Tran"
+},
+"message": "Add files via upload",
+"distinct": true,
+"url": "https://api.github.com/repos/tran-chien/ML2019/commits/f44c0a6a237437e17d309243a987c028ffa9b896"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811578",
+"type": "PushEvent",
+"actor": {
+"id": 1388582,
+"login": "vangie",
+"display_login": "vangie",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vangie",
+"avatar_url": "https://avatars.githubusercontent.com/u/1388582?"
+},
+"repo": {
+"id": 98859345,
+"name": "alibaba/funcraft",
+"url": "https://api.github.com/repos/alibaba/funcraft"
+},
+"payload": {
+"push_id": 3958451527,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "2c93c8c6be7b8d00500c87c3ad587c510605c951",
+"before": "ab2519596890cff0c20f10ebce39b28e06702e9b",
+"commits": [
+{
+"sha": "2c93c8c6be7b8d00500c87c3ad587c510605c951",
+"author": {
+"email": "duwan@live.com",
+"name": "Vangie Du"
+},
+"message": "fun install 支持交互模式 (#357)\n\n* fun install sbox",
+"distinct": true,
+"url": "https://api.github.com/repos/alibaba/funcraft/commits/2c93c8c6be7b8d00500c87c3ad587c510605c951"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z",
+"org": {
+"id": 1961952,
+"login": "alibaba",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/alibaba",
+"avatar_url": "https://avatars.githubusercontent.com/u/1961952?"
+}
+},
+{
+"id": "10275811579",
+"type": "CreateEvent",
+"actor": {
+"id": 54472593,
+"login": "piashossain",
+"display_login": "piashossain",
+"gravatar_id": "",
+"url": "https://api.github.com/users/piashossain",
+"avatar_url": "https://avatars.githubusercontent.com/u/54472593?"
+},
+"repo": {
+"id": 204148971,
+"name": "piashossain/newcode",
+"url": "https://api.github.com/repos/piashossain/newcode"
+},
+"payload": {
+"ref": null,
+"ref_type": "repository",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811575",
+"type": "PushEvent",
+"actor": {
+"id": 29380164,
+"login": "soumita018",
+"display_login": "soumita018",
+"gravatar_id": "",
+"url": "https://api.github.com/users/soumita018",
+"avatar_url": "https://avatars.githubusercontent.com/u/29380164?"
+},
+"repo": {
+"id": 204142921,
+"name": "soumita018/social-test",
+"url": "https://api.github.com/repos/soumita018/social-test"
+},
+"payload": {
+"push_id": 3958451524,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "ec9ec8c106e68a8d541d82668afad7ad120f5150",
+"before": "2b8c22938a62af72651030b7f498f1482bb75cb0",
+"commits": [
+{
+"sha": "ec9ec8c106e68a8d541d82668afad7ad120f5150",
+"author": {
+"email": "soumita018@gmail.com",
+"name": "unknown"
+},
+"message": "change settings",
+"distinct": true,
+"url": "https://api.github.com/repos/soumita018/social-test/commits/ec9ec8c106e68a8d541d82668afad7ad120f5150"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811572",
+"type": "PushEvent",
+"actor": {
+"id": 819940,
+"login": "Flamenco",
+"display_login": "Flamenco",
+"gravatar_id": "",
+"url": "https://api.github.com/users/Flamenco",
+"avatar_url": "https://avatars.githubusercontent.com/u/819940?"
+},
+"repo": {
+"id": 193126435,
+"name": "Flamenco/stackeditpro",
+"url": "https://api.github.com/repos/Flamenco/stackeditpro"
+},
+"payload": {
+"push_id": 3958451525,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "d9804908121d68997be63b0bf6813ab7be7cadcf",
+"before": "e3cd86230131e57e444e63132262198973a0ed75",
+"commits": [
+{
+"sha": "d9804908121d68997be63b0bf6813ab7be7cadcf",
+"author": {
+"email": "Flamenco@users.noreply.github.com",
+"name": "Flamenco"
+},
+"message": "Features.md updated from https://stackeditpro.io/",
+"distinct": true,
+"url": "https://api.github.com/repos/Flamenco/stackeditpro/commits/d9804908121d68997be63b0bf6813ab7be7cadcf"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811573",
+"type": "IssueCommentEvent",
+"actor": {
+"id": 6823623,
+"login": "yaofly2012",
+"display_login": "yaofly2012",
+"gravatar_id": "",
+"url": "https://api.github.com/users/yaofly2012",
+"avatar_url": "https://avatars.githubusercontent.com/u/6823623?"
+},
+"repo": {
+"id": 142866430,
+"name": "yaofly2012/note",
+"url": "https://api.github.com/repos/yaofly2012/note"
+},
+"payload": {
+"action": "created",
+"issue": {
+"url": "https://api.github.com/repos/yaofly2012/note/issues/11",
+"repository_url": "https://api.github.com/repos/yaofly2012/note",
+"labels_url": "https://api.github.com/repos/yaofly2012/note/issues/11/labels{/name}",
+"comments_url": "https://api.github.com/repos/yaofly2012/note/issues/11/comments",
+"events_url": "https://api.github.com/repos/yaofly2012/note/issues/11/events",
+"html_url": "https://github.com/yaofly2012/note/issues/11",
+"id": 363641350,
+"node_id": "MDU6SXNzdWUzNjM2NDEzNTA=",
+"number": 11,
+"title": "Nodejs",
+"user": {
+"login": "yaofly2012",
+"id": 6823623,
+"node_id": "MDQ6VXNlcjY4MjM2MjM=",
+"avatar_url": "https://avatars0.githubusercontent.com/u/6823623?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/yaofly2012",
+"html_url": "https://github.com/yaofly2012",
+"followers_url": "https://api.github.com/users/yaofly2012/followers",
+"following_url": "https://api.github.com/users/yaofly2012/following{/other_user}",
+"gists_url": "https://api.github.com/users/yaofly2012/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/yaofly2012/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/yaofly2012/subscriptions",
+"organizations_url": "https://api.github.com/users/yaofly2012/orgs",
+"repos_url": "https://api.github.com/users/yaofly2012/repos",
+"events_url": "https://api.github.com/users/yaofly2012/events{/privacy}",
+"received_events_url": "https://api.github.com/users/yaofly2012/received_events",
+"type": "User",
+"site_admin": false
+},
+"labels": [
+{
+"id": 1496768744,
+"node_id": "MDU6TGFiZWwxNDk2NzY4NzQ0",
+"url": "https://api.github.com/repos/yaofly2012/note/labels/NodeJS",
+"name": "NodeJS",
+"color": "ba2616",
+"default": false
+}
+],
+"state": "open",
+"locked": false,
+"assignee": null,
+"assignees": [
+
+],
+"milestone": null,
+"comments": 1,
+"created_at": "2018-09-25T15:37:30Z",
+"updated_at": "2019-08-24T11:35:59Z",
+"closed_at": null,
+"author_association": "OWNER",
+"body": "# 流(stream)\r\n关于Nodejs的标签有*异步的*，*事件驱动的*...\r\n流是异步的\r\n\r\n# 什么是流数据？\r\n文档中关于流的介绍有这么一段话>A stream is an abstract interface for working with streaming data in Node.js\r\n那什么是```streaming data```呢？动态、持续生成的数据。见参考文档。\r\n\r\n# 关于Nodejs的stream模块\r\n提供流数据操作的抽象api。\r\n\r\n# 部件：流的源，流的目标，缓存（缓冲）\r\n1. 各部件怎么协作的？ \r\n\r\n# 数据块\r\nwrite, end方法第一个参数是数据块\r\n\r\n# 可写流API\r\n## cork\r\n可以分批执行缓存。跟uncork成对操作。\r\n## uncork\r\n\r\n# 可读流API\r\n>只有提供了消费或忽略数据的机制后，可读流才会产生数据。\r\n有消费才有生成。\r\n \r\n\r\n# issues/concern:\r\n1. 流是可**逝去**，**有序的**的 ？！\r\n    * write，end方法调用的顺序决定了数据块写入的顺序\r\n\r\n2. 流是什么使用缓存的？\r\n3. 可写流的写入缓存满了后才会传给底层系统？\r\n    貌似不是的，显示调用cork方法才会强制写入内存中！？\r\n4. 流和管道\r\n\r\n[深入理解 Node.js Stream 内部机制](htttaobaofed.org/blog/2017/08/31/nodejs-stream/)\r\n[What exactly are streams?](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)\r\n[NodeJs中的stream（流）- 基础篇](https://www.jianshu.com/p/1d36648fb87e)\r\n\r\n# 事件\r\n## data事件\r\n当流转换到 flowing 模式时会触发data事件，\r\n在流处于处态时绑定data事件会切换流状态为flowing，进而触发data事件（这只是触发事件方式之一）。\r\n\r\n1. 多个data事件回调函数接收的参数是一样的。\r\n2. \r\n\r\n## end事件\r\n流没有数据后触发\r\n\r\n## readable事件\r\n事件表明流有了新的动态：要么是有了新的数据，要么是到了流的尾部\r\n\r\n？是表示流是否数据还是表示缓存池是否有数据\r\n? 处理 'readable'事件可能造成吞吐量升高\r\n\r\n## close & error事件\r\n\r\n# 方法\r\n## destination readable.pipe(destination[, options])\r\n返回目标流引用，可以构建管道链\r\n\r\n数据流将被自动管理\r\n\r\n```javascript\r\nvar fs = require('fs')\r\n\r\nvar readable = fs.createReadStream('w.stream.text', {encoding: 'utf-8', highWaterMark: 7});\r\n\r\n/* ----------- Event data & end----------------*/\r\n// readable.on('data', (chunk) => {\r\n// \tconsole.log(`1 接收到 ${chunk.length} 字节的数据。`);\r\n// \t// readable.pause();\r\n// \t// setTimeout(()=> {\r\n// \t// \treadable.resume();\r\n// \t// }, 2000)\r\n// })\r\n\r\n// readable.on('data', (chunk) => {\r\n// \tconsole.log(`2 接收到 ${chunk.length} 字节的数据。`);\r\n// })\r\n\r\n\r\n/* ----------- Event readable & end ----------------*/\r\n// readable.on('readable', () => {\r\n//   \tconsole.log(`${readable.read()}`);\r\n// });\r\n\r\n// readable.on('end', () => {\r\n// \tconsole.log(`结束了`);\r\n// })\r\n\r\n/* -------------- 方法 pipe ------------- */\r\n// var w1 = fs.createWriteStream('r.stream1.text')\r\n// var w2 = fs.createWriteStream('r.stream2.text')\r\n\r\n// readable.on('end', () => {\r\n// \tconsole.log(`r-> 结束了`);\r\n// })\r\n// w1.on('end', () => {\r\n// \tconsole.log(`w1-> 结束了`);\r\n// })\r\n// w2.on('end', () => {\r\n// \tconsole.log(`w2-> 结束了`);\r\n// })\r\n\r\n// var pR1 = readable.pipe(w1)\r\n// var pR2 = readable.pipe(w2)\r\n\r\n// console.log(pR1 === w1)\r\n// console.log(pR2 === w2)\r\n\r\n/*----------------- 方法 read ------------------- \r\n1. 从缓存区里去取数据\r\n2. 需要readable事件配合，要不然不知道啥时候缓存区有数据\r\n\r\n*/\r\n\r\n//console.log(readable.readableHighWaterMark)\r\n\r\n// var count = 0;\r\n// readable.on('readable', () => {\r\n// \tlet chunk;\r\n// \tvar insideCount = 0\r\n\r\n// \tconsole.log(`Loop times: ${++count}`); // undefined ?\r\n// \twhile (null !== (chunk = readable.read(2))) {\r\n// \t\tconsole.log(`\\tRead loop times: ${++insideCount}`); \r\n// \t\tconsole.log(`\\tReceived ${chunk.length} bytes of data.`);\r\n// \t}\r\n// })\r\n\r\n// readable.on('end', () => {\r\n// \tconsole.log(`r-> 结束了`);\r\n// })\r\n\r\n\r\n/* ------------------ 方法 resume -------------------- \r\n1. flowing模式的流即使没有显示指定消费者，也会被消费，返回触发end事件\r\n\r\n*/\r\n\r\nreadable.resume().on('end', () => {\r\n\tconsole.log('Reached the end, but did not read anything.');\r\n})\r\n\r\nsetTimeout(function() {\r\n\treadable.on('data', (chunk) => {\r\n\t\tconsole.log(chunk)\r\n\t})\t\r\n}, 4)\r\n\r\n\r\n// 为什么消费流数据只是用一种方式？\r\n// 两种mode下的readable事件和read方法\r\n\r\n```\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n# 参考\r\n1. [什么是流数据？](https://aws.amazon.com/cn/streaming-data/)\r\n2. [The Basics of Node.js Streams](https://www.sitepoint.com/basics-node-js-streams/)\r\n3. [官方文档](http://nodejs.cn/api/stream.html)"
+},
+"comment": {
+"url": "https://api.github.com/repos/yaofly2012/note/issues/comments/524543330",
+"html_url": "https://github.com/yaofly2012/note/issues/11#issuecomment-524543330",
+"issue_url": "https://api.github.com/repos/yaofly2012/note/issues/11",
+"id": 524543330,
+"node_id": "MDEyOklzc3VlQ29tbWVudDUyNDU0MzMzMA==",
+"user": {
+"login": "yaofly2012",
+"id": 6823623,
+"node_id": "MDQ6VXNlcjY4MjM2MjM=",
+"avatar_url": "https://avatars0.githubusercontent.com/u/6823623?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/yaofly2012",
+"html_url": "https://github.com/yaofly2012",
+"followers_url": "https://api.github.com/users/yaofly2012/followers",
+"following_url": "https://api.github.com/users/yaofly2012/following{/other_user}",
+"gists_url": "https://api.github.com/users/yaofly2012/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/yaofly2012/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/yaofly2012/subscriptions",
+"organizations_url": "https://api.github.com/users/yaofly2012/orgs",
+"repos_url": "https://api.github.com/users/yaofly2012/repos",
+"events_url": "https://api.github.com/users/yaofly2012/events{/privacy}",
+"received_events_url": "https://api.github.com/users/yaofly2012/received_events",
+"type": "User",
+"site_admin": false
+},
+"created_at": "2019-08-24T11:35:59Z",
+"updated_at": "2019-08-24T11:35:59Z",
+"author_association": "OWNER",
+"body": "# process.env\r\n> an object containing the user environment\r\n\r\n当前环境的信息，是个key=value对象，其中value是字符串。\r\n## 包含哪些信息\r\n1. nodejs默认添加的\r\n- [基本信息](https://nodejs.org/dist/latest-v8.x/docs/api/process.html#process_process_env)\r\n- [环境变量](https://sorex.cnblogs.com/p/6200940.html)\r\n2. 应用自定义的信息\r\n- 命令行\r\n- 程序里\r\n`process`是全局变量，那在应用中给`env`属性添加的属性都可以随处访问到的。\r\n\r\n## 如何用\r\n1. [What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)\r\n\r\n## process.env.NODE_ENV变量\r\n\r\n"
+}
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811571",
+"type": "CreateEvent",
+"actor": {
+"id": 21159914,
+"login": "Aichnerc",
+"display_login": "Aichnerc",
+"gravatar_id": "",
+"url": "https://api.github.com/users/Aichnerc",
+"avatar_url": "https://avatars.githubusercontent.com/u/21159914?"
+},
+"repo": {
+"id": 202096370,
+"name": "blue-lupi/blue-lupi-homepage",
+"url": "https://api.github.com/repos/blue-lupi/blue-lupi-homepage"
+},
+"payload": {
+"ref": "add-basic-structure-1",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "Blue Lupi homepage build with React.js",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z",
+"org": {
+"id": 54041462,
+"login": "blue-lupi",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/blue-lupi",
+"avatar_url": "https://avatars.githubusercontent.com/u/54041462?"
+}
+},
+{
+"id": "10275811569",
+"type": "CreateEvent",
+"actor": {
+"id": 54472723,
+"login": "NazaninBayati",
+"display_login": "NazaninBayati",
+"gravatar_id": "",
+"url": "https://api.github.com/users/NazaninBayati",
+"avatar_url": "https://avatars.githubusercontent.com/u/54472723?"
+},
+"repo": {
+"id": 204148970,
+"name": "NazaninBayati/bayati",
+"url": "https://api.github.com/repos/NazaninBayati/bayati"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811566",
+"type": "PullRequestEvent",
+"actor": {
+"id": 1388582,
+"login": "vangie",
+"display_login": "vangie",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vangie",
+"avatar_url": "https://avatars.githubusercontent.com/u/1388582?"
+},
+"repo": {
+"id": 98859345,
+"name": "alibaba/funcraft",
+"url": "https://api.github.com/repos/alibaba/funcraft"
+},
+"payload": {
+"action": "closed",
+"number": 357,
+"pull_request": {
+"url": "https://api.github.com/repos/alibaba/funcraft/pulls/357",
+"id": 308984393,
+"node_id": "MDExOlB1bGxSZXF1ZXN0MzA4OTg0Mzkz",
+"html_url": "https://github.com/alibaba/funcraft/pull/357",
+"diff_url": "https://github.com/alibaba/funcraft/pull/357.diff",
+"patch_url": "https://github.com/alibaba/funcraft/pull/357.patch",
+"issue_url": "https://api.github.com/repos/alibaba/funcraft/issues/357",
+"number": 357,
+"state": "closed",
+"locked": false,
+"title": "fun install 支持交互模式",
+"user": {
+"login": "vangie",
+"id": 1388582,
+"node_id": "MDQ6VXNlcjEzODg1ODI=",
+"avatar_url": "https://avatars3.githubusercontent.com/u/1388582?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vangie",
+"html_url": "https://github.com/vangie",
+"followers_url": "https://api.github.com/users/vangie/followers",
+"following_url": "https://api.github.com/users/vangie/following{/other_user}",
+"gists_url": "https://api.github.com/users/vangie/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vangie/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vangie/subscriptions",
+"organizations_url": "https://api.github.com/users/vangie/orgs",
+"repos_url": "https://api.github.com/users/vangie/repos",
+"events_url": "https://api.github.com/users/vangie/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vangie/received_events",
+"type": "User",
+"site_admin": false
+},
+"body": "## 非交互模式\r\n```\r\n$ node bin/fun.js install sbox --runtime nodejs6\r\nbuild-1.5.7: Pulling from aliyunfc/runtime-nodejs6\r\n3d77ce4481b1: Already exists\r\n7d2f32934963: Already exists\r\n0c5cf711b890: Already exists\r\n9593dc852d6b: Already exists\r\n4e3b8a1eb914: Already exists\r\nddcf13cc1951: Already exists\r\n2e460d114172: Already exists\r\nd94b1226fbf2: Already exists\r\n59b08731a6f6: Pull complete\r\ne58aab4cffa2: Pull complete\r\na1153d0b1450: Pull complete\r\n1d307e5ac062: Pull complete\r\nb8aad79c23dd: Pull complete\r\n13276752d01e: Pull complete\r\nc7380fbb9766: Pull complete\r\n517944c4511d: Pull complete\r\n081702a45b0f: Pull complete\r\nfca28f2f1318: Pull complete\r\na431942ce422: Pull complete\r\n797716765b15: Pull complete\r\nb854234302a8: Pull complete\r\n1ca3b17d1f0c: Pull complete\r\n9aa1f1025da5: Pull complete\r\nStatus: Downloaded newer image for aliyunfc/runtime-nodejs6:build-1.5.7\r\n```\r\n\r\n```\r\n$ cd examples/install/pyzbar_example ; node ../../../bin/fun.js install sbox --function pyzbar-fun\r\n```\r\n\r\n```\r\n$ node bin/fun.js install sbox --runtime nodejs6 --cmd 'echo hello'\r\nhello\r\n```\r\n## 交互模式\r\n\r\n```\r\n$ node  bin/fun.js install sbox --runtime nodejs6 --interactive\r\nroot@fc-nodejs6:/code# exit\r\nexit\r\n```\r\n\r\n```\r\n$ cd examples/install/pyzbar_example ; node ../../../bin/fun.js install sbox --function pyzbar-fun -i\r\nroot@fc-python3:/code# exit\r\nexit\r\n```\r\n\r\n```\r\n$ echo \"hello\" | node  bin/fun.js install sbox --runtime nodejs6 --interactive --cmd 'cat -'                        \r\nhello\r\n```\r\n\r\n```\r\n$ cd examples/install/pyzbar_example ; echo \"world\" | node ../../../bin/fun.js install sbox --function pyzbar-fun -i --cmd 'cat -'\r\nworld\r\n```\r\n\r\n",
+"created_at": "2019-08-20T10:35:06Z",
+"updated_at": "2019-08-24T11:35:58Z",
+"closed_at": "2019-08-24T11:35:58Z",
+"merged_at": "2019-08-24T11:35:58Z",
+"merge_commit_sha": "2c93c8c6be7b8d00500c87c3ad587c510605c951",
+"assignee": null,
+"assignees": [
+
+],
+"requested_reviewers": [
+
+],
+"requested_teams": [
+
+],
+"labels": [
+
+],
+"milestone": null,
+"commits_url": "https://api.github.com/repos/alibaba/funcraft/pulls/357/commits",
+"review_comments_url": "https://api.github.com/repos/alibaba/funcraft/pulls/357/comments",
+"review_comment_url": "https://api.github.com/repos/alibaba/funcraft/pulls/comments{/number}",
+"comments_url": "https://api.github.com/repos/alibaba/funcraft/issues/357/comments",
+"statuses_url": "https://api.github.com/repos/alibaba/funcraft/statuses/54d520025375ecaa6ee019692fcb33a31a7d3492",
+"head": {
+"label": "alibaba:vangie/sbox",
+"ref": "vangie/sbox",
+"sha": "54d520025375ecaa6ee019692fcb33a31a7d3492",
+"user": {
+"login": "alibaba",
+"id": 1961952,
+"node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjE5NTI=",
+"avatar_url": "https://avatars1.githubusercontent.com/u/1961952?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/alibaba",
+"html_url": "https://github.com/alibaba",
+"followers_url": "https://api.github.com/users/alibaba/followers",
+"following_url": "https://api.github.com/users/alibaba/following{/other_user}",
+"gists_url": "https://api.github.com/users/alibaba/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/alibaba/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/alibaba/subscriptions",
+"organizations_url": "https://api.github.com/users/alibaba/orgs",
+"repos_url": "https://api.github.com/users/alibaba/repos",
+"events_url": "https://api.github.com/users/alibaba/events{/privacy}",
+"received_events_url": "https://api.github.com/users/alibaba/received_events",
+"type": "Organization",
+"site_admin": false
+},
+"repo": {
+"id": 98859345,
+"node_id": "MDEwOlJlcG9zaXRvcnk5ODg1OTM0NQ==",
+"name": "funcraft",
+"full_name": "alibaba/funcraft",
+"private": false,
+"owner": {
+"login": "alibaba",
+"id": 1961952,
+"node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjE5NTI=",
+"avatar_url": "https://avatars1.githubusercontent.com/u/1961952?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/alibaba",
+"html_url": "https://github.com/alibaba",
+"followers_url": "https://api.github.com/users/alibaba/followers",
+"following_url": "https://api.github.com/users/alibaba/following{/other_user}",
+"gists_url": "https://api.github.com/users/alibaba/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/alibaba/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/alibaba/subscriptions",
+"organizations_url": "https://api.github.com/users/alibaba/orgs",
+"repos_url": "https://api.github.com/users/alibaba/repos",
+"events_url": "https://api.github.com/users/alibaba/events{/privacy}",
+"received_events_url": "https://api.github.com/users/alibaba/received_events",
+"type": "Organization",
+"site_admin": false
+},
+"html_url": "https://github.com/alibaba/funcraft",
+"description": "(have) Fun with Serverless(API Gateway & Function Compute)",
+"fork": false,
+"url": "https://api.github.com/repos/alibaba/funcraft",
+"forks_url": "https://api.github.com/repos/alibaba/funcraft/forks",
+"keys_url": "https://api.github.com/repos/alibaba/funcraft/keys{/key_id}",
+"collaborators_url": "https://api.github.com/repos/alibaba/funcraft/collaborators{/collaborator}",
+"teams_url": "https://api.github.com/repos/alibaba/funcraft/teams",
+"hooks_url": "https://api.github.com/repos/alibaba/funcraft/hooks",
+"issue_events_url": "https://api.github.com/repos/alibaba/funcraft/issues/events{/number}",
+"events_url": "https://api.github.com/repos/alibaba/funcraft/events",
+"assignees_url": "https://api.github.com/repos/alibaba/funcraft/assignees{/user}",
+"branches_url": "https://api.github.com/repos/alibaba/funcraft/branches{/branch}",
+"tags_url": "https://api.github.com/repos/alibaba/funcraft/tags",
+"blobs_url": "https://api.github.com/repos/alibaba/funcraft/git/blobs{/sha}",
+"git_tags_url": "https://api.github.com/repos/alibaba/funcraft/git/tags{/sha}",
+"git_refs_url": "https://api.github.com/repos/alibaba/funcraft/git/refs{/sha}",
+"trees_url": "https://api.github.com/repos/alibaba/funcraft/git/trees{/sha}",
+"statuses_url": "https://api.github.com/repos/alibaba/funcraft/statuses/{sha}",
+"languages_url": "https://api.github.com/repos/alibaba/funcraft/languages",
+"stargazers_url": "https://api.github.com/repos/alibaba/funcraft/stargazers",
+"contributors_url": "https://api.github.com/repos/alibaba/funcraft/contributors",
+"subscribers_url": "https://api.github.com/repos/alibaba/funcraft/subscribers",
+"subscription_url": "https://api.github.com/repos/alibaba/funcraft/subscription",
+"commits_url": "https://api.github.com/repos/alibaba/funcraft/commits{/sha}",
+"git_commits_url": "https://api.github.com/repos/alibaba/funcraft/git/commits{/sha}",
+"comments_url": "https://api.github.com/repos/alibaba/funcraft/comments{/number}",
+"issue_comment_url": "https://api.github.com/repos/alibaba/funcraft/issues/comments{/number}",
+"contents_url": "https://api.github.com/repos/alibaba/funcraft/contents/{+path}",
+"compare_url": "https://api.github.com/repos/alibaba/funcraft/compare/{base}...{head}",
+"merges_url": "https://api.github.com/repos/alibaba/funcraft/merges",
+"archive_url": "https://api.github.com/repos/alibaba/funcraft/{archive_format}{/ref}",
+"downloads_url": "https://api.github.com/repos/alibaba/funcraft/downloads",
+"issues_url": "https://api.github.com/repos/alibaba/funcraft/issues{/number}",
+"pulls_url": "https://api.github.com/repos/alibaba/funcraft/pulls{/number}",
+"milestones_url": "https://api.github.com/repos/alibaba/funcraft/milestones{/number}",
+"notifications_url": "https://api.github.com/repos/alibaba/funcraft/notifications{?since,all,participating}",
+"labels_url": "https://api.github.com/repos/alibaba/funcraft/labels{/name}",
+"releases_url": "https://api.github.com/repos/alibaba/funcraft/releases{/id}",
+"deployments_url": "https://api.github.com/repos/alibaba/funcraft/deployments",
+"created_at": "2017-07-31T07:12:41Z",
+"updated_at": "2019-08-24T06:21:43Z",
+"pushed_at": "2019-08-24T11:35:58Z",
+"git_url": "git://github.com/alibaba/funcraft.git",
+"ssh_url": "git@github.com:alibaba/funcraft.git",
+"clone_url": "https://github.com/alibaba/funcraft.git",
+"svn_url": "https://github.com/alibaba/funcraft",
+"homepage": "",
+"size": 2941,
+"stargazers_count": 289,
+"watchers_count": 289,
+"language": "JavaScript",
+"has_issues": true,
+"has_projects": true,
+"has_downloads": true,
+"has_wiki": true,
+"has_pages": false,
+"forks_count": 46,
+"mirror_url": null,
+"archived": false,
+"disabled": false,
+"open_issues_count": 42,
+"license": {
+"key": "mit",
+"name": "MIT License",
+"spdx_id": "MIT",
+"url": "https://api.github.com/licenses/mit",
+"node_id": "MDc6TGljZW5zZTEz"
+},
+"forks": 46,
+"open_issues": 42,
+"watchers": 289,
+"default_branch": "master"
+}
+},
+"base": {
+"label": "alibaba:master",
+"ref": "master",
+"sha": "ab2519596890cff0c20f10ebce39b28e06702e9b",
+"user": {
+"login": "alibaba",
+"id": 1961952,
+"node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjE5NTI=",
+"avatar_url": "https://avatars1.githubusercontent.com/u/1961952?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/alibaba",
+"html_url": "https://github.com/alibaba",
+"followers_url": "https://api.github.com/users/alibaba/followers",
+"following_url": "https://api.github.com/users/alibaba/following{/other_user}",
+"gists_url": "https://api.github.com/users/alibaba/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/alibaba/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/alibaba/subscriptions",
+"organizations_url": "https://api.github.com/users/alibaba/orgs",
+"repos_url": "https://api.github.com/users/alibaba/repos",
+"events_url": "https://api.github.com/users/alibaba/events{/privacy}",
+"received_events_url": "https://api.github.com/users/alibaba/received_events",
+"type": "Organization",
+"site_admin": false
+},
+"repo": {
+"id": 98859345,
+"node_id": "MDEwOlJlcG9zaXRvcnk5ODg1OTM0NQ==",
+"name": "funcraft",
+"full_name": "alibaba/funcraft",
+"private": false,
+"owner": {
+"login": "alibaba",
+"id": 1961952,
+"node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjE5NTI=",
+"avatar_url": "https://avatars1.githubusercontent.com/u/1961952?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/alibaba",
+"html_url": "https://github.com/alibaba",
+"followers_url": "https://api.github.com/users/alibaba/followers",
+"following_url": "https://api.github.com/users/alibaba/following{/other_user}",
+"gists_url": "https://api.github.com/users/alibaba/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/alibaba/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/alibaba/subscriptions",
+"organizations_url": "https://api.github.com/users/alibaba/orgs",
+"repos_url": "https://api.github.com/users/alibaba/repos",
+"events_url": "https://api.github.com/users/alibaba/events{/privacy}",
+"received_events_url": "https://api.github.com/users/alibaba/received_events",
+"type": "Organization",
+"site_admin": false
+},
+"html_url": "https://github.com/alibaba/funcraft",
+"description": "(have) Fun with Serverless(API Gateway & Function Compute)",
+"fork": false,
+"url": "https://api.github.com/repos/alibaba/funcraft",
+"forks_url": "https://api.github.com/repos/alibaba/funcraft/forks",
+"keys_url": "https://api.github.com/repos/alibaba/funcraft/keys{/key_id}",
+"collaborators_url": "https://api.github.com/repos/alibaba/funcraft/collaborators{/collaborator}",
+"teams_url": "https://api.github.com/repos/alibaba/funcraft/teams",
+"hooks_url": "https://api.github.com/repos/alibaba/funcraft/hooks",
+"issue_events_url": "https://api.github.com/repos/alibaba/funcraft/issues/events{/number}",
+"events_url": "https://api.github.com/repos/alibaba/funcraft/events",
+"assignees_url": "https://api.github.com/repos/alibaba/funcraft/assignees{/user}",
+"branches_url": "https://api.github.com/repos/alibaba/funcraft/branches{/branch}",
+"tags_url": "https://api.github.com/repos/alibaba/funcraft/tags",
+"blobs_url": "https://api.github.com/repos/alibaba/funcraft/git/blobs{/sha}",
+"git_tags_url": "https://api.github.com/repos/alibaba/funcraft/git/tags{/sha}",
+"git_refs_url": "https://api.github.com/repos/alibaba/funcraft/git/refs{/sha}",
+"trees_url": "https://api.github.com/repos/alibaba/funcraft/git/trees{/sha}",
+"statuses_url": "https://api.github.com/repos/alibaba/funcraft/statuses/{sha}",
+"languages_url": "https://api.github.com/repos/alibaba/funcraft/languages",
+"stargazers_url": "https://api.github.com/repos/alibaba/funcraft/stargazers",
+"contributors_url": "https://api.github.com/repos/alibaba/funcraft/contributors",
+"subscribers_url": "https://api.github.com/repos/alibaba/funcraft/subscribers",
+"subscription_url": "https://api.github.com/repos/alibaba/funcraft/subscription",
+"commits_url": "https://api.github.com/repos/alibaba/funcraft/commits{/sha}",
+"git_commits_url": "https://api.github.com/repos/alibaba/funcraft/git/commits{/sha}",
+"comments_url": "https://api.github.com/repos/alibaba/funcraft/comments{/number}",
+"issue_comment_url": "https://api.github.com/repos/alibaba/funcraft/issues/comments{/number}",
+"contents_url": "https://api.github.com/repos/alibaba/funcraft/contents/{+path}",
+"compare_url": "https://api.github.com/repos/alibaba/funcraft/compare/{base}...{head}",
+"merges_url": "https://api.github.com/repos/alibaba/funcraft/merges",
+"archive_url": "https://api.github.com/repos/alibaba/funcraft/{archive_format}{/ref}",
+"downloads_url": "https://api.github.com/repos/alibaba/funcraft/downloads",
+"issues_url": "https://api.github.com/repos/alibaba/funcraft/issues{/number}",
+"pulls_url": "https://api.github.com/repos/alibaba/funcraft/pulls{/number}",
+"milestones_url": "https://api.github.com/repos/alibaba/funcraft/milestones{/number}",
+"notifications_url": "https://api.github.com/repos/alibaba/funcraft/notifications{?since,all,participating}",
+"labels_url": "https://api.github.com/repos/alibaba/funcraft/labels{/name}",
+"releases_url": "https://api.github.com/repos/alibaba/funcraft/releases{/id}",
+"deployments_url": "https://api.github.com/repos/alibaba/funcraft/deployments",
+"created_at": "2017-07-31T07:12:41Z",
+"updated_at": "2019-08-24T06:21:43Z",
+"pushed_at": "2019-08-24T11:35:58Z",
+"git_url": "git://github.com/alibaba/funcraft.git",
+"ssh_url": "git@github.com:alibaba/funcraft.git",
+"clone_url": "https://github.com/alibaba/funcraft.git",
+"svn_url": "https://github.com/alibaba/funcraft",
+"homepage": "",
+"size": 2941,
+"stargazers_count": 289,
+"watchers_count": 289,
+"language": "JavaScript",
+"has_issues": true,
+"has_projects": true,
+"has_downloads": true,
+"has_wiki": true,
+"has_pages": false,
+"forks_count": 46,
+"mirror_url": null,
+"archived": false,
+"disabled": false,
+"open_issues_count": 42,
+"license": {
+"key": "mit",
+"name": "MIT License",
+"spdx_id": "MIT",
+"url": "https://api.github.com/licenses/mit",
+"node_id": "MDc6TGljZW5zZTEz"
+},
+"forks": 46,
+"open_issues": 42,
+"watchers": 289,
+"default_branch": "master"
+}
+},
+"_links": {
+"self": {
+"href": "https://api.github.com/repos/alibaba/funcraft/pulls/357"
+},
+"html": {
+"href": "https://github.com/alibaba/funcraft/pull/357"
+},
+"issue": {
+"href": "https://api.github.com/repos/alibaba/funcraft/issues/357"
+},
+"comments": {
+"href": "https://api.github.com/repos/alibaba/funcraft/issues/357/comments"
+},
+"review_comments": {
+"href": "https://api.github.com/repos/alibaba/funcraft/pulls/357/comments"
+},
+"review_comment": {
+"href": "https://api.github.com/repos/alibaba/funcraft/pulls/comments{/number}"
+},
+"commits": {
+"href": "https://api.github.com/repos/alibaba/funcraft/pulls/357/commits"
+},
+"statuses": {
+"href": "https://api.github.com/repos/alibaba/funcraft/statuses/54d520025375ecaa6ee019692fcb33a31a7d3492"
+}
+},
+"author_association": "COLLABORATOR",
+"merged": true,
+"mergeable": null,
+"rebaseable": null,
+"mergeable_state": "unknown",
+"merged_by": {
+"login": "vangie",
+"id": 1388582,
+"node_id": "MDQ6VXNlcjEzODg1ODI=",
+"avatar_url": "https://avatars3.githubusercontent.com/u/1388582?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vangie",
+"html_url": "https://github.com/vangie",
+"followers_url": "https://api.github.com/users/vangie/followers",
+"following_url": "https://api.github.com/users/vangie/following{/other_user}",
+"gists_url": "https://api.github.com/users/vangie/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vangie/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vangie/subscriptions",
+"organizations_url": "https://api.github.com/users/vangie/orgs",
+"repos_url": "https://api.github.com/users/vangie/repos",
+"events_url": "https://api.github.com/users/vangie/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vangie/received_events",
+"type": "User",
+"site_admin": false
+},
+"comments": 1,
+"review_comments": 10,
+"maintainer_can_modify": false,
+"commits": 20,
+"additions": 2007,
+"deletions": 1190,
+"changed_files": 23
+}
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z",
+"org": {
+"id": 1961952,
+"login": "alibaba",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/alibaba",
+"avatar_url": "https://avatars.githubusercontent.com/u/1961952?"
+}
+},
+{
+"id": "10275811563",
+"type": "PushEvent",
+"actor": {
+"id": 50507732,
+"login": "wsli10",
+"display_login": "wsli10",
+"gravatar_id": "",
+"url": "https://api.github.com/users/wsli10",
+"avatar_url": "https://avatars.githubusercontent.com/u/50507732?"
+},
+"repo": {
+"id": 186835454,
+"name": "wsli10/Front-End-Study-Note",
+"url": "https://api.github.com/repos/wsli10/Front-End-Study-Note"
+},
+"payload": {
+"push_id": 3958451517,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "a11ed643340c44b816aa5873e7f8240dc359b319",
+"before": "2905cc940b3b79b55321e09e712c48173d043a24",
+"commits": [
+{
+"sha": "a11ed643340c44b816aa5873e7f8240dc359b319",
+"author": {
+"email": "wsli10@126.com",
+"name": "wsli10"
+},
+"message": "changes",
+"distinct": true,
+"url": "https://api.github.com/repos/wsli10/Front-End-Study-Note/commits/a11ed643340c44b816aa5873e7f8240dc359b319"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811565",
+"type": "CreateEvent",
+"actor": {
+"id": 37964701,
+"login": "ma75442",
+"display_login": "ma75442",
+"gravatar_id": "",
+"url": "https://api.github.com/users/ma75442",
+"avatar_url": "https://avatars.githubusercontent.com/u/37964701?"
+},
+"repo": {
+"id": 204043747,
+"name": "ma75442/projects",
+"url": "https://api.github.com/repos/ma75442/projects"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811564",
+"type": "CreateEvent",
+"actor": {
+"id": 30002114,
+"login": "TonyGregg",
+"display_login": "TonyGregg",
+"gravatar_id": "",
+"url": "https://api.github.com/users/TonyGregg",
+"avatar_url": "https://avatars.githubusercontent.com/u/30002114?"
+},
+"repo": {
+"id": 204148805,
+"name": "TonyGregg/4thworldeducationlove.github.io",
+"url": "https://api.github.com/repos/TonyGregg/4thworldeducationlove.github.io"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "Remote villages that aren’t considered “3rd” world but need support and guidance to get better education and better their communities.",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:59Z"
+},
+{
+"id": "10275811560",
+"type": "PushEvent",
+"actor": {
+"id": 7975065,
+"login": "didevgen",
+"display_login": "didevgen",
+"gravatar_id": "",
+"url": "https://api.github.com/users/didevgen",
+"avatar_url": "https://avatars.githubusercontent.com/u/7975065?"
+},
+"repo": {
+"id": 201497366,
+"name": "didevgen/itaka",
+"url": "https://api.github.com/repos/didevgen/itaka"
+},
+"payload": {
+"push_id": 3958451514,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/modules",
+"head": "af02e3e9c8674a3a5ac150beeb6cbea20b4c8691",
+"before": "34e7b1b3f59a9738a722c33678997aab5caa4c24",
+"commits": [
+{
+"sha": "af02e3e9c8674a3a5ac150beeb6cbea20b4c8691",
+"author": {
+"email": "ykovalov@homeaway.com",
+"name": "Eugene Kovaljov"
+},
+"message": "Merge branch 'master' into modules",
+"distinct": true,
+"url": "https://api.github.com/repos/didevgen/itaka/commits/af02e3e9c8674a3a5ac150beeb6cbea20b4c8691"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811559",
+"type": "CreateEvent",
+"actor": {
+"id": 11869,
+"login": "emqplus",
+"display_login": "emqplus",
+"gravatar_id": "",
+"url": "https://api.github.com/users/emqplus",
+"avatar_url": "https://avatars.githubusercontent.com/u/11869?"
+},
+"repo": {
+"id": 82270543,
+"name": "emqx/emqx-web-hook",
+"url": "https://api.github.com/repos/emqx/emqx-web-hook"
+},
+"payload": {
+"ref": "update-copyright",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "EMQ X Webhook Plugin",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z",
+"org": {
+"id": 25221711,
+"login": "emqx",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/emqx",
+"avatar_url": "https://avatars.githubusercontent.com/u/25221711?"
+}
+},
+{
+"id": "10275811555",
+"type": "CreateEvent",
+"actor": {
+"id": 11315660,
+"login": "yo7",
+"display_login": "yo7",
+"gravatar_id": "",
+"url": "https://api.github.com/users/yo7",
+"avatar_url": "https://avatars.githubusercontent.com/u/11315660?"
+},
+"repo": {
+"id": 204145437,
+"name": "yo7/react-codemirror2",
+"url": "https://api.github.com/repos/yo7/react-codemirror2"
+},
+"payload": {
+"ref": "init-options",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "Codemirror integrated components for React",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811550",
+"type": "PushEvent",
+"actor": {
+"id": 52457863,
+"login": "mzljjkj",
+"display_login": "mzljjkj",
+"gravatar_id": "",
+"url": "https://api.github.com/users/mzljjkj",
+"avatar_url": "https://avatars.githubusercontent.com/u/52457863?"
+},
+"repo": {
+"id": 194981110,
+"name": "mzljjkj/muzios.com",
+"url": "https://api.github.com/repos/mzljjkj/muzios.com"
+},
+"payload": {
+"push_id": 3958451507,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "4718ef17d5e26776b92e6bc2d5d2abff421819d4",
+"before": "c38adc26586b53ba581596363a287ee2e61e93d3",
+"commits": [
+{
+"sha": "4718ef17d5e26776b92e6bc2d5d2abff421819d4",
+"author": {
+"email": "52457863+mzljjkj@users.noreply.github.com",
+"name": "mzljjkj"
+},
+"message": "Delete 0012.html",
+"distinct": true,
+"url": "https://api.github.com/repos/mzljjkj/muzios.com/commits/4718ef17d5e26776b92e6bc2d5d2abff421819d4"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811548",
+"type": "PushEvent",
+"actor": {
+"id": 51447049,
+"login": "fadlyas",
+"display_login": "fadlyas",
+"gravatar_id": "",
+"url": "https://api.github.com/users/fadlyas",
+"avatar_url": "https://avatars.githubusercontent.com/u/51447049?"
+},
+"repo": {
+"id": 196560052,
+"name": "fadlyas/gitbub",
+"url": "https://api.github.com/repos/fadlyas/gitbub"
+},
+"payload": {
+"push_id": 3958451504,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "8c095fbad1761702ef364d0a7aa2577b6ea25891",
+"before": "de3d20629328946c2e2333be9f71b2cdd22ae4b1",
+"commits": [
+{
+"sha": "8c095fbad1761702ef364d0a7aa2577b6ea25891",
+"author": {
+"email": "51447049+fadlyas@users.noreply.github.com",
+"name": "fadlyas"
+},
+"message": "Create paralel2",
+"distinct": true,
+"url": "https://api.github.com/repos/fadlyas/gitbub/commits/8c095fbad1761702ef364d0a7aa2577b6ea25891"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811544",
+"type": "PushEvent",
+"actor": {
+"id": 50124573,
+"login": "tantan1984",
+"display_login": "tantan1984",
+"gravatar_id": "",
+"url": "https://api.github.com/users/tantan1984",
+"avatar_url": "https://avatars.githubusercontent.com/u/50124573?"
+},
+"repo": {
+"id": 193315972,
+"name": "pigutty/freemarket_sample_49a",
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a"
+},
+"payload": {
+"push_id": 3958451502,
+"size": 41,
+"distinct_size": 1,
+"ref": "refs/heads/商品一覧ページの画像表示の変更",
+"head": "1860d61857c6ca1dd17602deb932b1d6b4016c07",
+"before": "6cc3ca05d4a94bf3aebb5c825384a33ac2008aad",
+"commits": [
+{
+"sha": "fa8b607baf859442d08fe05cef20437b71ca5a99",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "credentialsの変更",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/fa8b607baf859442d08fe05cef20437b71ca5a99"
+},
+{
+"sha": "0371074c35f70268cb02010cd0f8bb9935794978",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "Update edit.html.haml",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/0371074c35f70268cb02010cd0f8bb9935794978"
+},
+{
+"sha": "1edfe02cd2ea822dea06ee9e8805b0cc8c71120e",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "gemの導入",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/1edfe02cd2ea822dea06ee9e8805b0cc8c71120e"
+},
+{
+"sha": "2f7df1a7a74db431b0b2da72f0957b3d7396701e",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "コードの追加",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/2f7df1a7a74db431b0b2da72f0957b3d7396701e"
+},
+{
+"sha": "74f3c030679dd999c95e14cc665e5630f4262ed6",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "rspec_rails",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/74f3c030679dd999c95e14cc665e5630f4262ed6"
+},
+{
+"sha": "ba43d966a75f5275dd4de1543134b9e076339154",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "nicknameがないときに弾かれるテスト",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/ba43d966a75f5275dd4de1543134b9e076339154"
+},
+{
+"sha": "6232b0f94173f3cf105f0d10a910dcca39ef25b7",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "カテゴリー値の取得",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/6232b0f94173f3cf105f0d10a910dcca39ef25b7"
+},
+{
+"sha": "1b07f83d39ac8353c701d2ff55840b03e2aa31d6",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "カテゴリー編集機能の追加",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/1b07f83d39ac8353c701d2ff55840b03e2aa31d6"
+},
+{
+"sha": "dc898746965bc922b970931667d76852e17025de",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "不要なhamlファイルの削除",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/dc898746965bc922b970931667d76852e17025de"
+},
+{
+"sha": "7bebba0c5b53ca5d8a4c5f5c3d408002b9da429d",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "database変更。出品時に使わないもののnull:falseを外した",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/7bebba0c5b53ca5d8a4c5f5c3d408002b9da429d"
+},
+{
+"sha": "ba554e62e31947a14bb56cbd374e0ad0ea1fa0a4",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "コメントアウトしてもいけそう。。",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/ba554e62e31947a14bb56cbd374e0ad0ea1fa0a4"
+},
+{
+"sha": "78d5db3c0b90c4e3364be39f6dadce5d1a7f70e6",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "Revert \"コメントアウトしてもいけそう。。\"\n\nThis reverts commit ba554e62e31947a14bb56cbd374e0ad0ea1fa0a4.",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/78d5db3c0b90c4e3364be39f6dadce5d1a7f70e6"
+},
+{
+"sha": "35b93bf91eb1f396fe1218dbd12856e9d37f6c75",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "factoryBotを用いた記述",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/35b93bf91eb1f396fe1218dbd12856e9d37f6c75"
+},
+{
+"sha": "d3b97c4955bf7db64d3b37520c4c77ac79b55a37",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "テストの記述",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/d3b97c4955bf7db64d3b37520c4c77ac79b55a37"
+},
+{
+"sha": "768114a1386f6fb18685a6cb26c7ab1f68dd6453",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "出品ボタンの作成",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/768114a1386f6fb18685a6cb26c7ab1f68dd6453"
+},
+{
+"sha": "45f69fe674b42dd1c0b5bcef7309dbe5012ba357",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "変数の修正",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/45f69fe674b42dd1c0b5bcef7309dbe5012ba357"
+},
+{
+"sha": "6cc9d04be096d9fcf2f0945f8da192e224c3a88c",
+"author": {
+"email": "with0526@icloud.com",
+"name": "ec0341ks"
+},
+"message": "Update _content.html.haml",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/6cc9d04be096d9fcf2f0945f8da192e224c3a88c"
+},
+{
+"sha": "c0d5fe1e4b67b24aecc75fa6c5768fcb55b97ae7",
+"author": {
+"email": "50263756+ec0341ks@users.noreply.github.com",
+"name": "ec0341ks"
+},
+"message": "Merge pull request #82 from pigutty/product/editページのエラー修正\n\nproduct/editカテゴリー機能実装",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/c0d5fe1e4b67b24aecc75fa6c5768fcb55b97ae7"
+},
+{
+"sha": "c3c575bbbb360db96c42eb4f44ad9099cc212c85",
+"author": {
+"email": "50263756+ec0341ks@users.noreply.github.com",
+"name": "ec0341ks"
+},
+"message": "Merge pull request #87 from pigutty/top/出品ボタンの作成\n\n出品ボタンの作成",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/c3c575bbbb360db96c42eb4f44ad9099cc212c85"
+},
+{
+"sha": "8c9e0b2b3b47fd5ff661546b6c160a138633d9ac",
+"author": {
+"email": "50047826+pigutty@users.noreply.github.com",
+"name": "pigutty"
+},
+"message": "Merge pull request #84 from pigutty/ユーザーログインのテスト\n\nユーザー登録１枚目のテスト",
+"distinct": false,
+"url": "https://api.github.com/repos/pigutty/freemarket_sample_49a/commits/8c9e0b2b3b47fd5ff661546b6c160a138633d9ac"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811542",
+"type": "CreateEvent",
+"actor": {
+"id": 23040076,
+"login": "greenkeeper[bot]",
+"display_login": "greenkeeper",
+"gravatar_id": "",
+"url": "https://api.github.com/users/greenkeeper[bot]",
+"avatar_url": "https://avatars.githubusercontent.com/u/23040076?"
+},
+"repo": {
+"id": 136673801,
+"name": "phts/tsaryk.com",
+"url": "https://api.github.com/repos/phts/tsaryk.com"
+},
+"payload": {
+"ref": "greenkeeper/@phts/eslint-config-1.8.0",
+"ref_type": "branch",
+"master_branch": "master",
+"description": "🏠 My home page",
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811541",
+"type": "CreateEvent",
+"actor": {
+"id": 16735291,
+"login": "Szymon-D",
+"display_login": "Szymon-D",
+"gravatar_id": "",
+"url": "https://api.github.com/users/Szymon-D",
+"avatar_url": "https://avatars.githubusercontent.com/u/16735291?"
+},
+"repo": {
+"id": 204148969,
+"name": "Szymon-D/semantic-release-plugin-csproj",
+"url": "https://api.github.com/repos/Szymon-D/semantic-release-plugin-csproj"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811537",
+"type": "PushEvent",
+"actor": {
+"id": 45367985,
+"login": "RIProG",
+"display_login": "RIProG",
+"gravatar_id": "",
+"url": "https://api.github.com/users/RIProG",
+"avatar_url": "https://avatars.githubusercontent.com/u/45367985?"
+},
+"repo": {
+"id": 196558248,
+"name": "RIProG/Courses",
+"url": "https://api.github.com/repos/RIProG/Courses"
+},
+"payload": {
+"push_id": 3958451499,
+"size": 1,
+"distinct_size": 1,
+"ref": "refs/heads/master",
+"head": "f73759bb22dbd278b4c8c4f830d1fbb05e4fca9a",
+"before": "9c9237a40dbc44527fb42bb2765a7e7824263036",
+"commits": [
+{
+"sha": "f73759bb22dbd278b4c8c4f830d1fbb05e4fca9a",
+"author": {
+"email": "riprog@hotmail.com",
+"name": "RIProG"
+},
+"message": "Fixade css-styling på headern",
+"distinct": true,
+"url": "https://api.github.com/repos/RIProG/Courses/commits/f73759bb22dbd278b4c8c4f830d1fbb05e4fca9a"
+}
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811536",
+"type": "CreateEvent",
+"actor": {
+"id": 54472723,
+"login": "NazaninBayati",
+"display_login": "NazaninBayati",
+"gravatar_id": "",
+"url": "https://api.github.com/users/NazaninBayati",
+"avatar_url": "https://avatars.githubusercontent.com/u/54472723?"
+},
+"repo": {
+"id": 204148970,
+"name": "NazaninBayati/bayati",
+"url": "https://api.github.com/repos/NazaninBayati/bayati"
+},
+"payload": {
+"ref": null,
+"ref_type": "repository",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811534",
+"type": "CreateEvent",
+"actor": {
+"id": 54471611,
+"login": "sung-kyun-kim",
+"display_login": "sung-kyun-kim",
+"gravatar_id": "",
+"url": "https://api.github.com/users/sung-kyun-kim",
+"avatar_url": "https://avatars.githubusercontent.com/u/54471611?"
+},
+"repo": {
+"id": 204148038,
+"name": "sung-kyun-kim/sung-kyun-kim.github.io",
+"url": "https://api.github.com/repos/sung-kyun-kim/sung-kyun-kim.github.io"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811533",
+"type": "PullRequestEvent",
+"actor": {
+"id": 1290234,
+"login": "prologic",
+"display_login": "prologic",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"avatar_url": "https://avatars.githubusercontent.com/u/1290234?"
+},
+"repo": {
+"id": 175222495,
+"name": "prologic/bitcask",
+"url": "https://api.github.com/repos/prologic/bitcask"
+},
+"payload": {
+"action": "opened",
+"number": 69,
+"pull_request": {
+"url": "https://api.github.com/repos/prologic/bitcask/pulls/69",
+"id": 310603027,
+"node_id": "MDExOlB1bGxSZXF1ZXN0MzEwNjAzMDI3",
+"html_url": "https://github.com/prologic/bitcask/pull/69",
+"diff_url": "https://github.com/prologic/bitcask/pull/69.diff",
+"patch_url": "https://github.com/prologic/bitcask/pull/69.patch",
+"issue_url": "https://api.github.com/repos/prologic/bitcask/issues/69",
+"number": 69,
+"state": "open",
+"locked": false,
+"title": "Add a new custom trie implemtnation for prefix scans",
+"user": {
+"login": "prologic",
+"id": 1290234,
+"node_id": "MDQ6VXNlcjEyOTAyMzQ=",
+"avatar_url": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"html_url": "https://github.com/prologic",
+"followers_url": "https://api.github.com/users/prologic/followers",
+"following_url": "https://api.github.com/users/prologic/following{/other_user}",
+"gists_url": "https://api.github.com/users/prologic/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/prologic/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/prologic/subscriptions",
+"organizations_url": "https://api.github.com/users/prologic/orgs",
+"repos_url": "https://api.github.com/users/prologic/repos",
+"events_url": "https://api.github.com/users/prologic/events{/privacy}",
+"received_events_url": "https://api.github.com/users/prologic/received_events",
+"type": "User",
+"site_admin": false
+},
+"body": "THis is a very quick attempt at solving #67 \r\n\r\nBased on [ryancaille/trie](https://github.com/ryancaille/trie) and _slightly modified_ this should have significantly less impact on allocations and memory.\r\n\r\n@awnumar @jsign Are you able to help test this branch? Feedback/Improvements welcome!\r\n\r\nFixes #67 (_assuming @awnumar application / use-case resolved #67_)",
+"created_at": "2019-08-24T11:35:57Z",
+"updated_at": "2019-08-24T11:35:57Z",
+"closed_at": null,
+"merged_at": null,
+"merge_commit_sha": null,
+"assignee": null,
+"assignees": [
+
+],
+"requested_reviewers": [
+
+],
+"requested_teams": [
+
+],
+"labels": [
+
+],
+"milestone": null,
+"commits_url": "https://api.github.com/repos/prologic/bitcask/pulls/69/commits",
+"review_comments_url": "https://api.github.com/repos/prologic/bitcask/pulls/69/comments",
+"review_comment_url": "https://api.github.com/repos/prologic/bitcask/pulls/comments{/number}",
+"comments_url": "https://api.github.com/repos/prologic/bitcask/issues/69/comments",
+"statuses_url": "https://api.github.com/repos/prologic/bitcask/statuses/347687c324d79a7606faec5ad8db5cc83446adf4",
+"head": {
+"label": "prologic:new_trie",
+"ref": "new_trie",
+"sha": "347687c324d79a7606faec5ad8db5cc83446adf4",
+"user": {
+"login": "prologic",
+"id": 1290234,
+"node_id": "MDQ6VXNlcjEyOTAyMzQ=",
+"avatar_url": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"html_url": "https://github.com/prologic",
+"followers_url": "https://api.github.com/users/prologic/followers",
+"following_url": "https://api.github.com/users/prologic/following{/other_user}",
+"gists_url": "https://api.github.com/users/prologic/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/prologic/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/prologic/subscriptions",
+"organizations_url": "https://api.github.com/users/prologic/orgs",
+"repos_url": "https://api.github.com/users/prologic/repos",
+"events_url": "https://api.github.com/users/prologic/events{/privacy}",
+"received_events_url": "https://api.github.com/users/prologic/received_events",
+"type": "User",
+"site_admin": false
+},
+"repo": {
+"id": 175222495,
+"node_id": "MDEwOlJlcG9zaXRvcnkxNzUyMjI0OTU=",
+"name": "bitcask",
+"full_name": "prologic/bitcask",
+"private": false,
+"owner": {
+"login": "prologic",
+"id": 1290234,
+"node_id": "MDQ6VXNlcjEyOTAyMzQ=",
+"avatar_url": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"html_url": "https://github.com/prologic",
+"followers_url": "https://api.github.com/users/prologic/followers",
+"following_url": "https://api.github.com/users/prologic/following{/other_user}",
+"gists_url": "https://api.github.com/users/prologic/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/prologic/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/prologic/subscriptions",
+"organizations_url": "https://api.github.com/users/prologic/orgs",
+"repos_url": "https://api.github.com/users/prologic/repos",
+"events_url": "https://api.github.com/users/prologic/events{/privacy}",
+"received_events_url": "https://api.github.com/users/prologic/received_events",
+"type": "User",
+"site_admin": false
+},
+"html_url": "https://github.com/prologic/bitcask",
+"description": "🔑A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak.",
+"fork": false,
+"url": "https://api.github.com/repos/prologic/bitcask",
+"forks_url": "https://api.github.com/repos/prologic/bitcask/forks",
+"keys_url": "https://api.github.com/repos/prologic/bitcask/keys{/key_id}",
+"collaborators_url": "https://api.github.com/repos/prologic/bitcask/collaborators{/collaborator}",
+"teams_url": "https://api.github.com/repos/prologic/bitcask/teams",
+"hooks_url": "https://api.github.com/repos/prologic/bitcask/hooks",
+"issue_events_url": "https://api.github.com/repos/prologic/bitcask/issues/events{/number}",
+"events_url": "https://api.github.com/repos/prologic/bitcask/events",
+"assignees_url": "https://api.github.com/repos/prologic/bitcask/assignees{/user}",
+"branches_url": "https://api.github.com/repos/prologic/bitcask/branches{/branch}",
+"tags_url": "https://api.github.com/repos/prologic/bitcask/tags",
+"blobs_url": "https://api.github.com/repos/prologic/bitcask/git/blobs{/sha}",
+"git_tags_url": "https://api.github.com/repos/prologic/bitcask/git/tags{/sha}",
+"git_refs_url": "https://api.github.com/repos/prologic/bitcask/git/refs{/sha}",
+"trees_url": "https://api.github.com/repos/prologic/bitcask/git/trees{/sha}",
+"statuses_url": "https://api.github.com/repos/prologic/bitcask/statuses/{sha}",
+"languages_url": "https://api.github.com/repos/prologic/bitcask/languages",
+"stargazers_url": "https://api.github.com/repos/prologic/bitcask/stargazers",
+"contributors_url": "https://api.github.com/repos/prologic/bitcask/contributors",
+"subscribers_url": "https://api.github.com/repos/prologic/bitcask/subscribers",
+"subscription_url": "https://api.github.com/repos/prologic/bitcask/subscription",
+"commits_url": "https://api.github.com/repos/prologic/bitcask/commits{/sha}",
+"git_commits_url": "https://api.github.com/repos/prologic/bitcask/git/commits{/sha}",
+"comments_url": "https://api.github.com/repos/prologic/bitcask/comments{/number}",
+"issue_comment_url": "https://api.github.com/repos/prologic/bitcask/issues/comments{/number}",
+"contents_url": "https://api.github.com/repos/prologic/bitcask/contents/{+path}",
+"compare_url": "https://api.github.com/repos/prologic/bitcask/compare/{base}...{head}",
+"merges_url": "https://api.github.com/repos/prologic/bitcask/merges",
+"archive_url": "https://api.github.com/repos/prologic/bitcask/{archive_format}{/ref}",
+"downloads_url": "https://api.github.com/repos/prologic/bitcask/downloads",
+"issues_url": "https://api.github.com/repos/prologic/bitcask/issues{/number}",
+"pulls_url": "https://api.github.com/repos/prologic/bitcask/pulls{/number}",
+"milestones_url": "https://api.github.com/repos/prologic/bitcask/milestones{/number}",
+"notifications_url": "https://api.github.com/repos/prologic/bitcask/notifications{?since,all,participating}",
+"labels_url": "https://api.github.com/repos/prologic/bitcask/labels{/name}",
+"releases_url": "https://api.github.com/repos/prologic/bitcask/releases{/id}",
+"deployments_url": "https://api.github.com/repos/prologic/bitcask/deployments",
+"created_at": "2019-03-12T13:57:35Z",
+"updated_at": "2019-08-23T14:16:10Z",
+"pushed_at": "2019-08-24T11:33:10Z",
+"git_url": "git://github.com/prologic/bitcask.git",
+"ssh_url": "git@github.com:prologic/bitcask.git",
+"clone_url": "https://github.com/prologic/bitcask.git",
+"svn_url": "https://github.com/prologic/bitcask",
+"homepage": "https://prologic.github.io/bitcask",
+"size": 220,
+"stargazers_count": 162,
+"watchers_count": 162,
+"language": "Go",
+"has_issues": true,
+"has_projects": false,
+"has_downloads": true,
+"has_wiki": true,
+"has_pages": true,
+"forks_count": 13,
+"mirror_url": null,
+"archived": false,
+"disabled": false,
+"open_issues_count": 3,
+"license": {
+"key": "mit",
+"name": "MIT License",
+"spdx_id": "MIT",
+"url": "https://api.github.com/licenses/mit",
+"node_id": "MDc6TGljZW5zZTEz"
+},
+"forks": 13,
+"open_issues": 3,
+"watchers": 162,
+"default_branch": "master"
+}
+},
+"base": {
+"label": "prologic:master",
+"ref": "master",
+"sha": "b28353de0227bb42637723f126e532869b6be129",
+"user": {
+"login": "prologic",
+"id": 1290234,
+"node_id": "MDQ6VXNlcjEyOTAyMzQ=",
+"avatar_url": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"html_url": "https://github.com/prologic",
+"followers_url": "https://api.github.com/users/prologic/followers",
+"following_url": "https://api.github.com/users/prologic/following{/other_user}",
+"gists_url": "https://api.github.com/users/prologic/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/prologic/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/prologic/subscriptions",
+"organizations_url": "https://api.github.com/users/prologic/orgs",
+"repos_url": "https://api.github.com/users/prologic/repos",
+"events_url": "https://api.github.com/users/prologic/events{/privacy}",
+"received_events_url": "https://api.github.com/users/prologic/received_events",
+"type": "User",
+"site_admin": false
+},
+"repo": {
+"id": 175222495,
+"node_id": "MDEwOlJlcG9zaXRvcnkxNzUyMjI0OTU=",
+"name": "bitcask",
+"full_name": "prologic/bitcask",
+"private": false,
+"owner": {
+"login": "prologic",
+"id": 1290234,
+"node_id": "MDQ6VXNlcjEyOTAyMzQ=",
+"avatar_url": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/prologic",
+"html_url": "https://github.com/prologic",
+"followers_url": "https://api.github.com/users/prologic/followers",
+"following_url": "https://api.github.com/users/prologic/following{/other_user}",
+"gists_url": "https://api.github.com/users/prologic/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/prologic/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/prologic/subscriptions",
+"organizations_url": "https://api.github.com/users/prologic/orgs",
+"repos_url": "https://api.github.com/users/prologic/repos",
+"events_url": "https://api.github.com/users/prologic/events{/privacy}",
+"received_events_url": "https://api.github.com/users/prologic/received_events",
+"type": "User",
+"site_admin": false
+},
+"html_url": "https://github.com/prologic/bitcask",
+"description": "🔑A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak.",
+"fork": false,
+"url": "https://api.github.com/repos/prologic/bitcask",
+"forks_url": "https://api.github.com/repos/prologic/bitcask/forks",
+"keys_url": "https://api.github.com/repos/prologic/bitcask/keys{/key_id}",
+"collaborators_url": "https://api.github.com/repos/prologic/bitcask/collaborators{/collaborator}",
+"teams_url": "https://api.github.com/repos/prologic/bitcask/teams",
+"hooks_url": "https://api.github.com/repos/prologic/bitcask/hooks",
+"issue_events_url": "https://api.github.com/repos/prologic/bitcask/issues/events{/number}",
+"events_url": "https://api.github.com/repos/prologic/bitcask/events",
+"assignees_url": "https://api.github.com/repos/prologic/bitcask/assignees{/user}",
+"branches_url": "https://api.github.com/repos/prologic/bitcask/branches{/branch}",
+"tags_url": "https://api.github.com/repos/prologic/bitcask/tags",
+"blobs_url": "https://api.github.com/repos/prologic/bitcask/git/blobs{/sha}",
+"git_tags_url": "https://api.github.com/repos/prologic/bitcask/git/tags{/sha}",
+"git_refs_url": "https://api.github.com/repos/prologic/bitcask/git/refs{/sha}",
+"trees_url": "https://api.github.com/repos/prologic/bitcask/git/trees{/sha}",
+"statuses_url": "https://api.github.com/repos/prologic/bitcask/statuses/{sha}",
+"languages_url": "https://api.github.com/repos/prologic/bitcask/languages",
+"stargazers_url": "https://api.github.com/repos/prologic/bitcask/stargazers",
+"contributors_url": "https://api.github.com/repos/prologic/bitcask/contributors",
+"subscribers_url": "https://api.github.com/repos/prologic/bitcask/subscribers",
+"subscription_url": "https://api.github.com/repos/prologic/bitcask/subscription",
+"commits_url": "https://api.github.com/repos/prologic/bitcask/commits{/sha}",
+"git_commits_url": "https://api.github.com/repos/prologic/bitcask/git/commits{/sha}",
+"comments_url": "https://api.github.com/repos/prologic/bitcask/comments{/number}",
+"issue_comment_url": "https://api.github.com/repos/prologic/bitcask/issues/comments{/number}",
+"contents_url": "https://api.github.com/repos/prologic/bitcask/contents/{+path}",
+"compare_url": "https://api.github.com/repos/prologic/bitcask/compare/{base}...{head}",
+"merges_url": "https://api.github.com/repos/prologic/bitcask/merges",
+"archive_url": "https://api.github.com/repos/prologic/bitcask/{archive_format}{/ref}",
+"downloads_url": "https://api.github.com/repos/prologic/bitcask/downloads",
+"issues_url": "https://api.github.com/repos/prologic/bitcask/issues{/number}",
+"pulls_url": "https://api.github.com/repos/prologic/bitcask/pulls{/number}",
+"milestones_url": "https://api.github.com/repos/prologic/bitcask/milestones{/number}",
+"notifications_url": "https://api.github.com/repos/prologic/bitcask/notifications{?since,all,participating}",
+"labels_url": "https://api.github.com/repos/prologic/bitcask/labels{/name}",
+"releases_url": "https://api.github.com/repos/prologic/bitcask/releases{/id}",
+"deployments_url": "https://api.github.com/repos/prologic/bitcask/deployments",
+"created_at": "2019-03-12T13:57:35Z",
+"updated_at": "2019-08-23T14:16:10Z",
+"pushed_at": "2019-08-24T11:33:10Z",
+"git_url": "git://github.com/prologic/bitcask.git",
+"ssh_url": "git@github.com:prologic/bitcask.git",
+"clone_url": "https://github.com/prologic/bitcask.git",
+"svn_url": "https://github.com/prologic/bitcask",
+"homepage": "https://prologic.github.io/bitcask",
+"size": 220,
+"stargazers_count": 162,
+"watchers_count": 162,
+"language": "Go",
+"has_issues": true,
+"has_projects": false,
+"has_downloads": true,
+"has_wiki": true,
+"has_pages": true,
+"forks_count": 13,
+"mirror_url": null,
+"archived": false,
+"disabled": false,
+"open_issues_count": 3,
+"license": {
+"key": "mit",
+"name": "MIT License",
+"spdx_id": "MIT",
+"url": "https://api.github.com/licenses/mit",
+"node_id": "MDc6TGljZW5zZTEz"
+},
+"forks": 13,
+"open_issues": 3,
+"watchers": 162,
+"default_branch": "master"
+}
+},
+"_links": {
+"self": {
+"href": "https://api.github.com/repos/prologic/bitcask/pulls/69"
+},
+"html": {
+"href": "https://github.com/prologic/bitcask/pull/69"
+},
+"issue": {
+"href": "https://api.github.com/repos/prologic/bitcask/issues/69"
+},
+"comments": {
+"href": "https://api.github.com/repos/prologic/bitcask/issues/69/comments"
+},
+"review_comments": {
+"href": "https://api.github.com/repos/prologic/bitcask/pulls/69/comments"
+},
+"review_comment": {
+"href": "https://api.github.com/repos/prologic/bitcask/pulls/comments{/number}"
+},
+"commits": {
+"href": "https://api.github.com/repos/prologic/bitcask/pulls/69/commits"
+},
+"statuses": {
+"href": "https://api.github.com/repos/prologic/bitcask/statuses/347687c324d79a7606faec5ad8db5cc83446adf4"
+}
+},
+"author_association": "OWNER",
+"merged": false,
+"mergeable": null,
+"rebaseable": null,
+"mergeable_state": "unknown",
+"merged_by": null,
+"comments": 0,
+"review_comments": 0,
+"maintainer_can_modify": false,
+"commits": 1,
+"additions": 281,
+"deletions": 13,
+"changed_files": 5
+}
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z"
+},
+{
+"id": "10275811532",
+"type": "PushEvent",
+"actor": {
+"id": 8517910,
+"login": "LombiqBot",
+"display_login": "LombiqBot",
+"gravatar_id": "",
+"url": "https://api.github.com/users/LombiqBot",
+"avatar_url": "https://avatars.githubusercontent.com/u/8517910?"
+},
+"repo": {
+"id": 46631246,
+"name": "Lombiq/Pretty-Good-Bootstrap-Base-Theme",
+"url": "https://api.github.com/repos/Lombiq/Pretty-Good-Bootstrap-Base-Theme"
+},
+"payload": {
+"push_id": 3958451495,
+"size": 0,
+"distinct_size": 0,
+"ref": "refs/heads/Orchard-1.9.1",
+"head": "54b4efe2dfad3c256676a1351a2b714029b040f0",
+"before": "54b4efe2dfad3c256676a1351a2b714029b040f0",
+"commits": [
+
+]
+},
+"public": true,
+"created_at": "2019-08-24T11:35:58Z",
+"org": {
+"id": 8158177,
+"login": "Lombiq",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/Lombiq",
+"avatar_url": "https://avatars.githubusercontent.com/u/8158177?"
+}
+},
+{
+"id": "10275811529",
+"type": "CreateEvent",
+"actor": {
+"id": 54472745,
+"login": "fanBelieveMyself",
+"display_login": "fanBelieveMyself",
+"gravatar_id": "",
+"url": "https://api.github.com/users/fanBelieveMyself",
+"avatar_url": "https://avatars.githubusercontent.com/u/54472745?"
+},
+"repo": {
+"id": 204148967,
+"name": "fanBelieveMyself/hello-world",
+"url": "https://api.github.com/repos/fanBelieveMyself/hello-world"
+},
+"payload": {
+"ref": "master",
+"ref_type": "branch",
+"master_branch": "master",
+"description": null,
+"pusher_type": "user"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:57Z"
+},
+{
+"id": "10275811528",
+"type": "WatchEvent",
+"actor": {
+"id": 4510,
+"login": "oleg",
+"display_login": "oleg",
+"gravatar_id": "",
+"url": "https://api.github.com/users/oleg",
+"avatar_url": "https://avatars.githubusercontent.com/u/4510?"
+},
+"repo": {
+"id": 37356262,
+"name": "google/clojure-turtle",
+"url": "https://api.github.com/repos/google/clojure-turtle"
+},
+"payload": {
+"action": "started"
+},
+"public": true,
+"created_at": "2019-08-24T11:35:57Z",
+"org": {
+"id": 1342004,
+"login": "google",
+"gravatar_id": "",
+"url": "https://api.github.com/orgs/google",
+"avatar_url": "https://avatars.githubusercontent.com/u/1342004?"
+}
+}
+]

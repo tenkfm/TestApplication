@@ -1,0 +1,6 @@
+framework module Pods_CasumoTest {
+  umbrella header "Pods-CasumoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
